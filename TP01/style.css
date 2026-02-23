@@ -1,0 +1,27 @@
+body{
+  margin:60px;
+
+
+}
+
+.container{
+  display:flex;
+  justify-content:space-between;
+  margin-top:40px;
+}
+.style1{color:red;}
+
+
+.style2{
+  color: green;
+  font-size: 16px;
+  font-style: bold;
+  font-family:'Cambria';
+}
+
+.style3{font-size: 14px;}
+
+.style4{height: 250px; width: 250px; margin-right: 10%;} 
+
+
+
